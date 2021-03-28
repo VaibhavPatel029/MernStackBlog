@@ -1,0 +1,13 @@
+.rightside {
+  /* flex: 0.25; */
+
+  /* border: 1px solid green; */
+  padding: 0px 40px;
+}
+.rightside > hr {
+  height: 1px;
+  border: 0;
+  background-color: lightgray;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

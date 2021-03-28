@@ -1,0 +1,26 @@
+.leftside {
+  display: flex;
+  /* border: 1px solid red; */
+  align-items: center;
+  justify-content: center;
+  /* padding-left: 80px; */
+  padding-left: 150px;
+}
+.text_color {
+  color: red;
+}
+.last_button {
+  /* position: relative !important; */
+  display: flex;
+}
+.last_button > p {
+  padding-top: 5.5px;
+  margin-left: 10px;
+}
+.MuiPaper-root
+  MuiCard-root
+  makeStyles-root-3
+  MuiPaper-elevation1
+  MuiPaper-rounded {
+  padding: 0px;
+}

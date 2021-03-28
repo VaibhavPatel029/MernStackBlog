@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+}
+.app_page {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 70px;
+}
+.App {
+  margin-right: 100px;
+  margin-left: 50px;
+}

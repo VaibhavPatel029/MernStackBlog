@@ -1,0 +1,34 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 80px;
+}
+.user__info {
+  display: flex;
+}
+.header_logo {
+  display: flex;
+}
+.user__detail {
+  display: flex;
+  justify-content: space-around;
+  align-items: inherit;
+}
+.title {
+  padding-right: 10px;
+}
+.user__detail {
+  margin-left: 20px;
+}
+.avatar {
+  margin-left: 20px !important;
+  margin-right: 10px !important;
+}

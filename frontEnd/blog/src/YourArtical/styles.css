@@ -1,0 +1,25 @@
+.posts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* width: 70%; */
+}
+.posts__titel {
+  width: 70%;
+}
+.posts__titel > hr {
+  height: 1px;
+  border: 0;
+  background-color: lightgray;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.leftside {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.posts__post {
+  margin-bottom: 20px;
+}
